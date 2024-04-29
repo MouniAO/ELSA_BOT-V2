@@ -44,8 +44,8 @@ let result = await download(text)
         },
         mimetype: "application/vnd.android.package-archive",
         fileName: getname,
-        caption: `👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*
-👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*`,
+        caption: `【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*
+👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT*`,
     }, {
         quoted: citel,
     });
