@@ -42,7 +42,7 @@ cmd({
                 },
 
                 caption: `
-*👑 𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*
+*【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*
 
 💓هـلا ${citel.pushName}💓
 
@@ -56,8 +56,8 @@ cmd({
 *${prefix}4.3┃ YOWhatsapp*
 
 
-*👑 𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*
-*👩‍💻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*
+*【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*
+*👩‍💻 𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT�*
 `,
 
                 footer: tlang().footer,
@@ -88,7 +88,7 @@ cmd(
                     document: { url: wamod.result.com_whatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_whatsapp.name,
-                    caption: '👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*'
+                    caption: '【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT�*'
                 },
                 { quoted: citel }
             );
@@ -119,7 +119,7 @@ cmd(
                     document: { url: wamod.result.com_fmwhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_fmwhatsapp.name,
-                    caption: '👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*'
+                    caption: '【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT�*'
                 },
                 { quoted: citel }
             );
@@ -150,7 +150,7 @@ cmd(
                     document: { url: wamod.result.com_gbwhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_gbwhatsapp.name,
-                    caption: '👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*'
+                    caption: '【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT�*'
                 },
                 { quoted: citel }
             );
@@ -181,7 +181,7 @@ cmd(
                     document: { url: wamod.result.com_yowhatsapp.link },
                     mimetype: "application/vnd.android.package-archive",
                     fileName: wamod.result.com_yowhatsapp.name,
-                    caption: '👑 *𝐄𝐋𝐆𝐀𝐙𝐀𝐑 ❄️&𝐈𝐓𝐀𝐂𝐇𝐈 👑*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 𝑬𝑳𝑺𝑨 𝑩𝑶𝑻*'
+                    caption: '【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 𝕄𝕀𝕂𝕌 ┇⚜】*\n👩‍💻 *𝑪𝑹𝑬𝑨𝑻𝑬𝑫 𝑩𝒀 HAYAN-BOT�*'
                 },
                 { quoted: citel }
             );
