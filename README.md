@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="[[https://telegra.ph/HAYAN-PARK-04-29](https://pin.it/6Xm4pkYXq](https://pin.it/6Xm4pkYXq)](https://pin.it/6Xm4pkYXq)">
+<img alt="X-2.0" height="300" src="">
 
 <div align="center">
     ⏬<b>【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 ℍ𝔸𝕐𝔸ℕ ┇⚜】
