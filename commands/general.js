@@ -16,13 +16,13 @@ cmd({
     async(Void, citel) => {
         let { data } = await axios.get('https://youtube.com/@ABDALLAH_MOHAMED')
         let cap = `هـاي ${citel.pushName}\n
-*❄️⃝🧚‍♀️ 𒆜𝑬𝑳𝑺𝑨 𝑩𝑶𝑻𒆜♦️*
+*🌙⃝🧚‍♀️ 𒆜【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 ℍ𝔸𝕐𝔸ℕ ┇⚜】�𒆜♦️*
 
-*❄️⃝🧚‍♀️ 〘الـيـك فـروع مـجـتـمـعـنـا〙*
+*🌙⃝🧚‍♀️ 〘الـيـك فـروع مـجـتـمـعـنـا〙*
 
-*❄️⃝🧚‍♀️ الـفـرع الاول https://chat.whatsapp.com/D2q8dnfUwbL83Tz79bGEK*
+*🌙⃝🧚‍♀️ الـفـرع الاول https://chat.whatsapp.com/D2q8dnfUwbL83Tz79bGEK*
 
-*❄️⃝🧚‍♀️ الـفـرع الـثـانـي قـريـبـا...*`
+*🌙⃝🧚‍♀️ الـفـرع الـثـانـي قـريـبـا...*`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -59,11 +59,11 @@ cmd({
         latensie = speed() - timestampe;
         let ter = `
 ㅤ ────────────────────────── .°୭̥ ❁ 	
-*❄️⃝🧚‍♀️الـسـرعـه⚡️┇ ${latensie.toFixed(4)} مـللـي ثـانـيـه*
-*❄️⃝🧚‍♀️مـده الـتـشـغـيـل⏱┇ ${runtime(process.uptime())}*
-*❄️⃝🧚‍♀️ الاصـدار📡┇ V1*
-*❄️⃝🧚‍♀️ الـمـطـوريـن👤┇ ${Config.ownername}*
-*❄️⃝🧚‍♀️ اسـم الـبـوتـه🤖┇ ${tlang().title}*
+*🌙⃝🧚‍♀️الـسـرعـه⚡️┇ ${latensie.toFixed(4)} مـللـي ثـانـيـه*
+*🌙⃝🧚‍♀️مـده الـتـشـغـيـل⏱┇ ${runtime(process.uptime())}*
+*🌙⃝🧚‍♀️ الاصـدار📡┇ V1*
+*🌙⃝🧚‍♀️ الـمـطـوريـن👤┇ ${Config.ownername}*
+*🌙⃝🧚‍♀️ اسـم الـبـوتـه🤖┇ ${tlang().title}*
 °୭̥ ❁ ───────────────────────── .°୭̥ ❁ `;
         let buttonMessaged = {
             image: {
