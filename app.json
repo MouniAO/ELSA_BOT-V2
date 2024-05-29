@@ -19,11 +19,11 @@
        "required" :false
       },
     "HEROKU_API_KEY": {
-    "description": "مفتاح هيروكو",
+    "description": "HRKU-01393fc9-4983-4c98-b7fa-1d353a2031de",
      "required" :false
     },
  "HEROKU_APP_NAME": {
-    "description": "اسم التطبيق اللي كتبته بالاول.",
+    "description": "【⚜┇𝐈.𝐂.𝐍.𝐃 🌙 ℍ𝔸𝕐𝔸ℕ ┇⚜】",
     "required": "true"
 },
    "THUMB_IMAGE": {
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "رقم المطور يمكن اضافه اكثر من مطور وافصلهم بـ \",\")",
-       "value": "201098906252"
+       "value": "212604687805"
   },
    "SESSION_ID": {
     "description": "كود الجلسه احصل عليه من هنا https://elsa-bott.netlify.app"
@@ -84,7 +84,7 @@
   },
     "WORKTYPE": {
   "description": "اذا تبي البوت عام. اكتب public واذا تبيه خاص اكتب private.",
-         "value": "public"
+         "value": "private"
   },
       "AUTO_REACTION": {
     "description": "تفاعل تلقائي علي كل الرسائل.",
@@ -93,7 +93,7 @@
   },
   "PACK_INFO": {
     "description": "حقوق الملصقات.",
-     "value": "ELSA;MD",
+     "value": "HAYAN;MIKU",
      "required": false 
   },
   "heroku": {
